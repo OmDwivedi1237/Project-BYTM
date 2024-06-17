@@ -1,6 +1,7 @@
 ---
+# IN PROGRESS
 
-# BYTMusic
+## BYTMusic
 
 Welcome to BYTMusic, your go-to music streaming service designed to provide an unparalleled listening experience by leveraging the YouTube Music API. Dive into a vast library of songs, create custom playlists, and discover new music with ease.
 
@@ -12,14 +13,6 @@ Welcome to BYTMusic, your go-to music streaming service designed to provide an u
 - **High-Quality Audio**: Enjoy your favorite songs in the best quality possible.
 - **Cross-Platform Support**: Available on web, mobile, and desktop.
 
-## Getting Started
-
-To get started with BYTMusic, clone the repository and explore the project.
-
-```bash
-git clone https://github.com/yourusername/byt-music.git
-cd byt-music
-```
 
 ## Contributing
 
